@@ -1,0 +1,17 @@
+# Ignore Firebase credentials
+firebase_credentials.json
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore logs
+cron.log
+*.log
+
+# Ignore macOS system files
+.DS_Store
